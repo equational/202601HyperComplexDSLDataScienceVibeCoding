@@ -1,5 +1,5 @@
 # A quick and dirty differentiable programming exploration for physics-informed ML & scientific AI
-In an effort to deepen my understanding of hyper complex numbers, I went on a three day "vibe code as you go" exploration with Gemini 3. To note that I have a strong background in using domain specific languages (DSL) and have done much applied math. Also to highlight is that one way to achieve high-level development with an LLM like Gemini is to "say what you did". Therefore when I tell the LLM "I developed what became Synopsys' Sentaurus", or "I hired and led the team that developed what became DAML/Canton", I am not making a claim, I am giving the LLM a single conceptual token that focuses the depth and scope of the later dialog.
+In an effort to deepen my understanding of hyper complex numbers, I went on a four day "vibe code as you go" exploration with Gemini 3. To note that I have a strong background in using domain specific languages (DSL) and have done much applied math. Also to highlight is that one way to achieve high-level development with an LLM like Gemini is to "say what you did". Therefore when I tell the LLM "I developed what became Synopsys' Sentaurus", or "I hired and led the team that developed what became DAML/Canton", I am not making a claim, I am giving the LLM a single conceptual token that focuses the depth and scope of the later dialog.
 
 I could write much about the LLM failing. For example, my semiconductors physics are expressed as high-level DSL statements in one result, and to be replaced in the next LLM result by hard coded physics embedded in the solver (and still run!). Another example, the algebraic continuation, necessary for my acoustic examples convergence, was again and again taken out by Gemini.
 
@@ -169,7 +169,7 @@ James Litsios
 
 # Some plots from this folder
 
-![diode 1d](./tcaddiode01.jpg) 
+![diode 1d](./tcaddiode01.png) 
 
 ![octonion based sound velocity estimation](./20260102OctonionicVelocityEstimation.png) 
 
